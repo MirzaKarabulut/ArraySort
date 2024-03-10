@@ -1,4 +1,4 @@
-SORT ALGORITHMS
+# SORT ALGORITHMS
 
 (1) Write a class called ArraySort whose fields and constructor are the same as those of the
 ArrayBub, ArraySel and ArrayIns classes. Then copy the insert(), display(), swap(), bubbleSort(),
